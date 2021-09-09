@@ -1,3 +1,3 @@
 # :book: Book Summary
 
-Kumpulan rangkuman buku yang sudah atau sedang Saya baca.
+A collection of books summaries that I have read or are currently reading.
