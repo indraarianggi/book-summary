@@ -103,3 +103,52 @@ Aturan-aturan sederhana untuk menciptakan kebiasaan-kebiasaan baik dan membongka
 | Hukum kedua (Gairah)     |            Menjadikannya _menarik_             |         Menjadikannya _tidak menarik_          |
 | Hukum ketiga (Tanggapan) |             Menjadikannya _mudah_              |             Menjadikannya _sulit_              |
 | Hukum keempat (Ganjaran) |           Menjadikannya _memuaskan_            |          Menjadikannya _mengecewakan_          |
+
+## Menjadikan Suatu Kebiasaan Terlihat
+
+- **Kartu Skor Kebiasaan**
+
+  Tantangan terbesar dalam mengubah suatu kebiasaan adalah **mempertahankan kesadaran** tentang apa yang sedang kita lakukan.
+
+  Untuk lebih menyadari tentang perilaku kita, bisa dengan latihan sederhana yang disebut [Kartu Nilai Kebiasaan (Habits Scorecard)](https://jamesclear.com/atomic-habits/scorecard).
+
+  Buat daftar lengkap kebiasaan sehari-hari kita, kemudian beri nilai, apakah itu kebiasaan baik (+), buruk (-), atau netral (=).
+
+  Untuk menentukan nilai terhadaap suatu kebiasan, bisa dengan mengajukan pertanyaan "_Apakah perilaku ini membantu saya menjadi tipe orang yang saya inginkan? Apakah kebiasaan ini mendukung atau menolak identitas yang saya inginkan?_".
+
+  | Daily Habits      | Positive (+), Negative (-), or Neutral (=) |
+  | ----------------- | :----------------------------------------: |
+  | Bangun tidur      |                     +                      |
+  | Sholat subuh      |                     +                      |
+  | Menyiram tanaman  |                     +                      |
+  | Baca buku         |                     +                      |
+  | Cek twitter       |                     -                      |
+  | Mandi             |                     =                      |
+  | Mulai kerja       |                     +                      |
+  | dan seterusnya... |                    ...                     |
+
+- **Niat Implementasi**
+
+  Petunjuk paling jelas untuk memulai suatu perilaku/kebiasaan adalah _waktu_ dan _tempat_.
+
+  Orang yang membuat rencana spesifik _kapan_ dan _dimana_ mereka akan melakukan kebiasaan baru lebih mungkin terus melakukannya.
+
+  Rumusnya: **_Aku akan [PERILAKU] pada [WAKTU] di [LOKASI]_**
+
+  Contoh:
+
+  - Aku akan _membaca buku selama 1 jam_ pada _pukul 6 pagi_ di _kamar_.
+  - Aku akan _bersepeda selama 2 jam_ pada _hari minggu pukul 6 pagi_ menyusuri _jalanan kota_.
+  - Aku akan _belajar web programming selama 3 jam_ pada _pukul 8 malam_ di _ruang belajar_.
+
+- **Menumpuk Kebiasaan**
+
+  Adalah bentuk khusus dari niat implementasi. Alih-alih menjadikan waktu dan tempat sebagai petunjuk, kita menggunakan suatu _kebiasaan sebagai petunjuk_ untuk memulai kebiasaan yang lain.
+
+  Rumusnya: **_Setelah [KEBIASAAN SEKARANG], aku akan [KEBIASAAN BARU]_**
+
+  Contoh:
+
+  - Setelah _membuat secangkir kopi_, aku akan menikmatinya sambil _membaca buku selama 1 jam_.
+  - Setelah _membaca buku_, aku akan _membuat rangkuman_ tentang yang barusan aku baca.
+  - Setelah _berolah raga (push up ataupun bersepeda)_, aku akan langsung _mandi_.
