@@ -104,7 +104,7 @@ Aturan-aturan sederhana untuk menciptakan kebiasaan-kebiasaan baik dan membongka
 | Hukum ketiga (Tanggapan) |             Menjadikannya _mudah_              |             Menjadikannya _sulit_              |
 | Hukum keempat (Ganjaran) |           Menjadikannya _memuaskan_            |          Menjadikannya _mengecewakan_          |
 
-## Menjadikan Suatu Kebiasaan Terlihat
+## Kaidah Pertama: Menjadikan Terlihat
 
 - **Kartu Skor Kebiasaan**
 
@@ -152,3 +152,37 @@ Aturan-aturan sederhana untuk menciptakan kebiasaan-kebiasaan baik dan membongka
   - Setelah _membuat secangkir kopi_, aku akan menikmatinya sambil _membaca buku selama 1 jam_.
   - Setelah _membaca buku_, aku akan _membuat rangkuman_ tentang yang barusan aku baca.
   - Setelah _berolah raga (push up ataupun bersepeda)_, aku akan langsung _mandi_.
+
+- **Menciptakan Konteks dengan Lingkungan Sekitar**
+
+  Kebiasaan juga dipengaruhi lingkungan/ruangan kita berada, karena di sana terletak petunjuk-petunjuk nyata yang dapat memicu kebiasaan.
+
+  Untuk memulai kebiasaan baru, kita harus mengatur mengatur ulang lingkungan kita agar petunjuk-petunjuk untuk kebiasaan tersebut lebih terlihat jelas. Contohnya:
+
+  - Jika ingin mengembangkan kebiasaan mambaca 1 jam sebelum tidur, letakkan buku di samping tempat tidur.
+  - Jika ingin makan buah lebih banyak, letakkan buah dalam kerangjang di beberapa tempat di rumah, misal di ruang tamu dan di meja makan.
+  - Jika ingin meminum air putih lebih banyak, siapkan sebotol air di meja kerja.
+
+  Menciptakan konteks/hubungan dengan ruang-ruang di sekitar kita juga penting. Berpikirlah dalam konteks bagaimana kita berinteraksi dengan ruang-ruang di sekitar kita. Contoh:
+
+  - Meja kerja adalah tempat Saya untuk fokus bekerja dan melakukan hal-hal produktif, bukan untuk menghabiskan waktu berselancar di internet (melihat sosial media, youtube, dsb)
+  - Kursi di ruang tamu ini adalah tempat Saya membaca buku. Sedangkan di sofa Saya biasa bersantai sambil nonton tv.
+  - Tempat tidur adalah tempat Saya beristirahat setelah beraktivitas seharian, tidak boleh ada aktivitas lain di sana (misal bermain HP).
+
+  Dengan menciptakan ruang-ruang terpisah –– untuk bekerja, belajar, berolahraga, bersantai, dan lainnya –– kita membuat petunjuk untuk kebiasaan-kebiasaan yang berbeda tidak tercampur aduk. Sehingga kebiasaan-kebiasaan tersebut lebih mudah diciptakan dan dipertahankan.
+
+## Kaidah Kedua: Menjadikan Menarik
+
+Dopamin adalah salah satu zat kimia dalam tubuh yang mempengaruhi kebiasaan.
+
+Dalam lingkaran kebiasaan, dopamin dilepaskan tidak hanya ketika menerima ganjaran, tapi juga ketika kita mengatisipasinya (saat membayangkan ganjaran ketika melihat suatu petunjuk / saat fase _craving_).
+
+Dan setiap kali dopamin melonjak, begitu pula dengan tingkat motivasi untuk beraksi. Antisipasi terhadap ganjaranlah –– bukan pemenuhannya –– yang membuat kita melakukan tindakan.
+
+<img src="./assets/dopamine-spike.png" alt="The Dopamine Spike" width="350" align="center"/>
+
+Keterangan:
+(A) Ketika kebiasaan pertama kali dipelajari
+(B) Lonjakan dopamin terjadi setelah melihat petunjuk
+(C) Lonjakan dopamin tetap terjadi setelah melihat petunjuk, walaupun ganjaran tidak didapatkan
+(D) Lonjakan dopamin terjadi setelah melihat petunjuk, menurun karena ganjaran tidak datang secepat yang diharapkan, dan melonjak lagi setelah ganjaran didapatkan.
