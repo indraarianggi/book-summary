@@ -186,3 +186,31 @@ Keterangan:
 (B) Lonjakan dopamin terjadi setelah melihat petunjuk
 (C) Lonjakan dopamin tetap terjadi setelah melihat petunjuk, walaupun ganjaran tidak didapatkan
 (D) Lonjakan dopamin terjadi setelah melihat petunjuk, menurun karena ganjaran tidak datang secepat yang diharapkan, dan melonjak lagi setelah ganjaran didapatkan.
+
+### Peran Keluarga dan Teman dalam Membentuk Kebiasaan
+
+Kita tidak memiliki kebiasaan di babak awal hidup kita, **kita meniru**. Kita meniru dari ketiga kelompok berikut:
+
+1. **Meniru orang yang akrab**
+
+   Makin akrab kita dengan seseorang (teman, pasangan, ataupun keluarga), makin mungkin kita meniru beberapa kebiasaan mereka. Sehingga, untuk membangun kebiasaan yang lebih baik, beradalah di antara orang-orang yang memiliki kebiasaan yang baik pula.
+
+2. **Meniru orang banyak**
+
+   Setiap kali tidak yakin bagaimana harus bertindak, kita akan mencermati reaksi kelompok untuk memandu perilaku kita. Kita terus memantau lingkungan sekitar sambail bertanya-tanya, _"Apa yang dilakukan oleh semua orang lain?"_
+
+3. **Meniru orang yang berkuasa / berpengaruh**
+
+   Pada dasarnya, sebagai manusia, kita ingin berkuasa, dihormati, dipuji dan memiliki status. Oleh karenanya kita cenderung meniru perilaku-perilaku dari orang-orang yang telah memiliki kekuasaan, kehormatan, dipuji karna pencapaiannya, dan memiliki status istimewa/khusus di masyarakat.
+
+   Kita meniru orang yang kita kagumi.
+
+### Menemukan dan Mengoreksi Penyebab Kebiasaan
+
+Penyebab suatu kebiasaan sebenarnya adalah prediksi yang mendahuluinya (prediksi tentang ganjaran yang akan didapatkan). Persaaan dan emosi mengubah _petunjuk_ yang kita dapatkan dan _prediksi_ yang kita buat menjadi suatu sinyal. Sinyal itu membantu kita menerangkan apa yang sedang kita rasakan.
+
+Gairah adalah perasaan bahwa ada sesuatu yang hilang. Gairah adalah hasrat untuk mengubah keadaan internal.
+
+Hasrat adalah perbedaan antara keadaan yang sekarang **sedang dialami** dengan keadaan yang **diinginkan**. Perbedaan inilah yang memberi alasan kita untuk beraksi, untuk mengubah keadaan saat ini menjadi yang diinginkan.
+
+Kita dapat menjadikan kebiasaan sulit lebih menarik jika berhasil mengaitkan kebiasaan itu dengan pengalaman positif. Kita harus mengubah pola pikir. Lebih berfokus pada **_manfaat_** ketimbang kerugian akan membuat kebiasaan lebih menarik dan lebih mudah dijalankan.
