@@ -214,3 +214,49 @@ Gairah adalah perasaan bahwa ada sesuatu yang hilang. Gairah adalah hasrat untuk
 Hasrat adalah perbedaan antara keadaan yang sekarang **sedang dialami** dengan keadaan yang **diinginkan**. Perbedaan inilah yang memberi alasan kita untuk beraksi, untuk mengubah keadaan saat ini menjadi yang diinginkan.
 
 Kita dapat menjadikan kebiasaan sulit lebih menarik jika berhasil mengaitkan kebiasaan itu dengan pengalaman positif. Kita harus mengubah pola pikir. Lebih berfokus pada **_manfaat_** ketimbang kerugian akan membuat kebiasaan lebih menarik dan lebih mudah dijalankan.
+
+## Kaidah Ketiga: Menjadikan Mudah
+
+Ketika **_in motion_** kita hanya membuat rencana rencana, strategi, dan belajar, perilaku tersebut tidak membuahkan hasil. Sedangkan **_action_** kita melakukan aksi yang diperlukan untuk mendapatkan hasil.
+
+Jangan terjebak, _in motion_ membuat kita merasa sudah mengerjakan sesuatu. Padahal kita _hanya bersiap-siap_ untuk melakukan yang seharusnya dilakukan.
+
+> Bila ingin menguasai kebiasaan, kuncinya adalah _mulai melakukan aksi dan mengulang-ulangnya_, bukan membayangkan kesempurnaan.
+
+Pertanyaan yang sering ditanyakan, "Berapa _lama_ yang diperlukan untuk membentuk kebiasaan?" Ini salah, yang harusnya ditanyakan adalah "Berapa _kali_ kebiasaan harus diulang untuk membentuk kebiasaa?"
+
+> Kebiasaan terbentuk berdasarkan frekuensi, bukan waktu.
+
+### Hukum Upaya Sekecil-Kecilnya
+
+Sebagai manusia, motivasi sejati kita adalah malas dan lebih suka mengerjakan yang nyaman.
+
+Energi adalah sesuatu yang berharga, jadi otak kita dirangcang untuk menghematnya sebisa mungkin. Makin besar energi yang diperlukan, makin kecil kemungkinan aksi terjadi. Sebaliknya, makin sedikit energi yang diperlukan untuk suatu kebiasaan, makin besar kemungkinan kebiasaan itu terlaksana.
+
+Bisa dibilang setiap kebiasaan adalah penghalang untuk mendapatkan apa yang kita inginkan (ganjaran). Ini sebabnya penting sekali menjadikan kebiasaan-kebiasaan begitu mudah, sehingga kita akan melakukannya bahkan ketika sedang merasa tidak menyukainya.
+
+Ciptakan lingkungan untuk melakukan kebiasaan menjadi semudah mungkin. Kurangin rintangan-rintangan (hambatan-hambatan). Contoh:
+
+- Jika ingin mengembangkan kebiasaan membaca buku, selalu letakkan buku di tempat yang mudah dijangkau (di meja kerja/belajar, samping tempat tidur).
+- Jika ingin lari setiap pagi, siapkan kaos dan sepatu lari di malam sebelumnya.
+
+Sebaliknya, jika ingin menghilangkan kebiasaan buruk, buat lingkungan yang sulit untuk melakukan kebiasaan tersebut. Buat rintangan (hambatan) saat melakukan kebiasaan tersebut. Contoh:
+
+- Jika ingin mengurangi kebiasaan melihat sosial media ataupun bermain _smartphone_, maka hapus aplikasi-aplikasi sosial media dan simpan _smartphone_ jauh dari jangkauan.
+- Ingin mengurangi kebiasaan menonton tv, cabut kabel tv setiap kali selesai menonton, hal ini akan menambagkan rintangan untuk menonton tv. Atau yang lebih ekstrim, simpan tv digudang jika tidak digunakan, dan keluarkan lagi hanya saat akan digunakan.
+
+### Aturan 2 Menit
+
+Aturan 2 menit menyatakan:
+
+> Ketika Anda memulai kebiasaan baru, kebiasaan itu harus dapat dilakukan kurang dari 2 menit.
+
+Gagasannya adalah membuat kebiasaan dimulai semudah mungkin. Yang diinginkan dari aturan ini adalah "_kebiasaan pembuka_", yang secara alami akan mengantar ke jalur yang lebih produktif. Aksi-aksi _berikutnya_ mungkin sulit, tapi 2 menit pertamanya haruslah mudah.
+
+Begitu memulai hal yang benar, jauh lebih mudah untuk melanjutkannya.
+
+Hampir setiap kebiasaan dapat diubah menjadi versi 2 menit:
+
+- "_Membaca sebelum tidur tiap malam_" menjadi "_Membaca satu halaman_".
+- "_Berlari setiap pagi_" menjadi "_Memakai kaos olahraga dan sepatu lari_".
+- "_Belajar untuk kuliah besok_" menjadi "_Membuka buku catatan_".
