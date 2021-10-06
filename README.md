@@ -2,6 +2,4 @@
 
 A collection of books summaries that I have read or are currently reading.
 
-|  #  | Title                                                                                                         | Author      | Status      |
-| :-: | ------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-|  1  | [Atomic Habits](https://github.com/indraarianggi/book-summary/blob/main/01-Atomic-Habits/01-Atomic-Habits.md) | James Clear | on progress |
+_**Note: moved to [Notion](https://indraarianggi.notion.site/Book-Summary-e826d5c5868b49338567313d7ff7c602)**_
